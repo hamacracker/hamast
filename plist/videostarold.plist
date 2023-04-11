@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/video-star-hama-8.3.2-1681041062/Video%20Star%20HAMA_8.3.2_1681041062.ipa</string>
+					<string>https://archive.org/download/video-star-hamaexpert-8.3.2-1681112398/Video%20Star%20HAMAEXPERT_8.3.2_1681112398.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontierdesign.videostar</string>
+				<string>com.frontierdesign.videostar13</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>

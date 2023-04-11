@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/lightroom-8.2.1-1680637430/Lightroom_8.2.1_1680637430.ipa</string>
+					<string>https://archive.org/download/roblox-2.568.524-1681119056/Roblox_2.568.524_1681119056.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontierdesign.videostarhdj</string>
+				<string>com.roblox.robloxmobile5</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Lightroom</string>
+				<string>RobloxHack</string>
 				<key>title</key>
-				<string>Lightroom</string>
+				<string>Roblox Hack</string>
 			</dict>
 		</dict>
 	</array>

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/lightroom-8.2.1-1680637430/Lightroom_8.2.1_1680637430.ipa</string>
+					<string>https://archive.org/download/gta-mod-2.2-1681113894/GTA%20MOD_2.2_1681113894.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontierdesign.videostarhdj</string>
+				<string>com.rockstargames.gta3sahd</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Lightroom</string>
+				<string>Gta Kurdish</string>
 				<key>title</key>
-				<string>Lightroom</string>
+				<string>Gta Kurdish</string>
 			</dict>
 		</dict>
 	</array>

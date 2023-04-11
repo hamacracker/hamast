@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://archive.org/download/video-star-11.2.8-1680971556_202304/Video%20Star_11.2.8_1680971556.ipa</string>
+					<string>https://archive.org/download/video-star-pro-11.2.8-1681112292/Video%20Star%20Pro_11.2.8_1681112292.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.frontierdesign.videostarpro1</string>
+				<string>com.frontierdesign.videostarpro99</string>
 				<key>bundle-version</key>
 				<string>438</string>
 				<key>kind</key>
